@@ -1,0 +1,22 @@
+# id  level name   description
+FOK0;	0; Fokszámok és élek; handshaking lemma
+FOK1;	0; Egyforma fokszámok 1; van két egyforma fokszám
+FOK3;	0; Elsőfokú csúcsok 1; 1-fokú csúcsok körmentes gráfban
+WALK1;	0; Séták és utak; séta átalakítható úttá
+CON1;	0; Összefüggőség és komplementer; G vagy G^c összefüggő
+TREE1;	0; Fák 1; n csúcs és n-1 él
+
+FOK2;	1; Egyforma fokszámok 2; konstrukció: pont egy csúcspárnak egyforma a fokszáma
+ER1;	1; Erdős-Rényi gráf; az ER generálása
+FOK4;	1; Elsőfokú csúcsok 2; 1-fokú csúcsok körmentes gráfban és a maximális fokszám
+CON2;	1; Összefüggőség és fokszámok 1; n/2 min fokszám és összefüggőség
+CON3;	1; Összefüggőség és fokszámok 2; CON2 variáció
+PATH1;	1; Utak és fokszámok; min fokszám hosszú út
+CIRC1;	1; Körök és fokszámok; min fokszám+1 hosszú kör
+ODD1;	1; Két páratlan fokú csúcs; van út köztük
+COMP1;	1; Komponensek és élek; k komponensű gráf éleinek száma 
+TRI1;	1; Háromszögek és élek száma (Turán); háromszög hiánya: kevés él
+TRI2;	1; Háromszögek; klasszikus egyszínű háromszög feladat
+
+IRR1;	2; Irracionális számok; egyszínű háromszög
+TRI3:	2; Bajnokság 1; egyszínű háromszög
