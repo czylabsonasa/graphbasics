@@ -17,6 +17,7 @@ ODD1;		1; Két páratlan fokú csúcs; van út köztük
 COMP1;		1; Komponensek és élek; k komponensű gráf éleinek száma 
 TRI1;		1; Háromszögek és élek száma (Turán); háromszög hiánya: kevés él
 TRI2;		1; Háromszögek; klasszikus egyszínű háromszög feladat
+CON2;		1; Redundáns pont; leghosszab utas technika
 
 IRR1;		M; Irracionális számok; egyszínű háromszög
 TRI3;		M; Bajnokság 1; egyszínű háromszög
@@ -24,4 +25,4 @@ DEGSEQ1;	M; Fokszám sorozat 1; gráf létezése, ad-hoc
 DEGSEQ2;	M; Fokszám sorozat 2; gráf létezése, ad-hoc
 DIC1;		M; Fokszámok a komplementerben 1; kézfogás lemma
 DIC2;		M; Fokszámok a komplementerben 2; kézfogás lemma
-FOK5:    M; Magányos pontok; ad-hoc
+FOK5:    	M; Magányos pontok; ad-hoc
