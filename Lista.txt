@@ -24,3 +24,4 @@ DEGSEQ1;	M; Fokszám sorozat 1; gráf létezése, ad-hoc
 DEGSEQ2;	M; Fokszám sorozat 2; gráf létezése, ad-hoc
 DIC1;		M; Fokszámok a komplementerben 1; kézfogás lemma
 DIC2;		M; Fokszámok a komplementerben 2; kézfogás lemma
+FOK5:    M; Magányos pontok; ad-hoc
