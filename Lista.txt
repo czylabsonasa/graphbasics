@@ -18,7 +18,7 @@ COMP1;		1; Komponensek és élek; k komponensű gráf éleinek száma
 TRI1;		1; Háromszögek és élek száma (Turán); háromszög hiánya: kevés él
 TRI2;		1; Háromszögek; klasszikus egyszínű háromszög feladat
 
-IRR1;		2; Irracionális számok; egyszínű háromszög
-TRI3;		2; Bajnokság 1; egyszínű háromszög
-DEGSEQ1;	2; Fokszám sorozat 1; gráf létezése, ad-hoc
-
+IRR1;		M; Irracionális számok; egyszínű háromszög
+TRI3;		M; Bajnokság 1; egyszínű háromszög
+DEGSEQ1;	M; Fokszám sorozat 1; gráf létezése, ad-hoc
+DEGSEQ2;	M; Fokszám sorozat 2; gráf létezése, ad-hoc
