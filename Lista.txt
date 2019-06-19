@@ -22,3 +22,5 @@ IRR1;		M; Irracionális számok; egyszínű háromszög
 TRI3;		M; Bajnokság 1; egyszínű háromszög
 DEGSEQ1;	M; Fokszám sorozat 1; gráf létezése, ad-hoc
 DEGSEQ2;	M; Fokszám sorozat 2; gráf létezése, ad-hoc
+DIC1;		M; Fokszámok a komplementerben 1; kézfogás lemma
+DIC2;		M; Fokszámok a komplementerben 2; kézfogás lemma
